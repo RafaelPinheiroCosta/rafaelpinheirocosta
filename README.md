@@ -52,11 +52,14 @@ Atuo na criação de **templates reutilizáveis**, projetos educacionais estrutu
 
 ---
 
-### GitHub Stats
+### Tecnologias principais
+![Java](https://img.shields.io/badge/Java-111?style=flat&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111?style=flat&logo=springboot)
+![React](https://img.shields.io/badge/React-111?style=flat&logo=react)
+![Kotlin](https://img.shields.io/badge/Kotlin-111?style=flat&logo=kotlin)
+![MQTT](https://img.shields.io/badge/MQTT-111?style=flat&logo=eclipse-mosquitto)
+![WebSocket](https://img.shields.io/badge/WebSocket-111?style=flat)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPinheiroCosta&layout=compact&langs_count=8)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPinheiroCosta&show_icons=true)
 
 ---
 
