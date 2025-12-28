@@ -1,4 +1,4 @@
-## Olá, eu sou o Rafael Costa
+## Sou o Rafael Costa
 
 Professor de TI no **SENAI** e desenvolvedor com foco em **Java/Spring Boot**, **integrações em tempo real** e **IoT**.  
 Atuo na criação de **templates reutilizáveis**, projetos educacionais estruturados e soluções full-stack que integram **backend, frontend e dispositivos embarcados**, sempre aplicando padrões de mercado e boas práticas de engenharia de software.
