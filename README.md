@@ -78,4 +78,4 @@ Construir soluções robustas, didáticas e reutilizáveis, unindo **engenharia 
 ---
 
 ### Contato
-- LinkedIn: www.linkedin.com/in/rafael-costa-244b16182
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Costa-blue?logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
